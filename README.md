@@ -12,9 +12,8 @@ This is a project information for employee task assignment App
 | **Designer** | @hindro |
 
 # Overview
-This Mobile App is an interface used by technician of the Water Company and gateway technician from Gamatechno to support our end-to-end solutions to connect and collect customer complaint water meter, gateways, and devices.
-
-![petugas preview](https://user-images.githubusercontent.com/72726406/159609654-e158c9a5-0f50-410d-8ca7-97aaa1e0ead3.png)
+This Mobile App is an interface used by AntriIn customer to make queue activity from anywhere. Connected to database to support real time queue number, database, user credentials.
+![antriin-display](https://user-images.githubusercontent.com/72726406/165020200-783d156d-e5d0-448f-b215-4efe3b0b4d30.PNG)
 
 # Objectives
 1. Water meter technician with the services from Organizations/Water Company that using our platform.
